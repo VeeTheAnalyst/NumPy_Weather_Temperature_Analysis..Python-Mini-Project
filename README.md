@@ -198,7 +198,7 @@ The analysis covered array inspection, temperature differences, temperature adju
 ## Author
 
 **Nnadiukwu Glory Vivian** 
-Junior Data Analyst
+(Junior Data Analyst)
 
 **Email:** gloryvivian2000@gmail.com 
 
